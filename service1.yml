@@ -1,0 +1,6 @@
+service:
+  name: "Service 1"
+  db:
+    url: "jdbc:mysql://localhost:3306/service1_db"
+    username: "root"
+    password: "password"
