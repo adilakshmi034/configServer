@@ -1,2 +1,7 @@
 global:
   message: "This is a global message from Config Server"
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
